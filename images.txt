@@ -7,4 +7,4 @@
 vaultwarden/server:latest
 tailscale/tailscale:latest
 hslr/sun-panel:latest
-gdy666/lucky:latest
+gdy666/lucky:v2
