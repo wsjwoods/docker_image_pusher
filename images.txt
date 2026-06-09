@@ -8,3 +8,5 @@ vaultwarden/server:latest
 tailscale/tailscale:latest
 hslr/sun-panel:latest
 gdy666/lucky:v2
+bluewave-labs/checkmate-mongo:latest
+bluewave-labs/checkmate-backend-mono:latest
