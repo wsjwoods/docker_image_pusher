@@ -7,6 +7,5 @@
 vaultwarden/server:latest
 tailscale/tailscale:latest
 hslr/sun-panel:latest
-gdy666/lucky:v2
-ghcr.io/bluewave-labs/checkmate-backend-mono:latest
-ghcr.io/bluewave-labs/checkmate-mongo:latest
+gdy666/lucky:latest
+fnsys/dockhand:latest
